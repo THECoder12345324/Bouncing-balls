@@ -1,2 +1,2 @@
-# Bouncing-balls
-Making 3 balls bounce off of ground using physics engine
+# p5.play-boilerplate
+Boiler plate for p5.play
